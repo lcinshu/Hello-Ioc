@@ -12,6 +12,6 @@ Simple implementation of ioc with annotation and xml,for better understand of sp
 
 ## 参考书籍推荐
 
-[spring解密](https://book.douban.com/subject/3897837/)
+[spring揭秘](https://book.douban.com/subject/3897837/)：由浅入深，娓娓道来，层层剖析，每一章看完都能找到自己以前所不熟知的东西
 
 
